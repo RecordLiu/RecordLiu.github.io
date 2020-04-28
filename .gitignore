@@ -33,3 +33,6 @@ Temporary Items
 
 # debug file
 _site
+
+#忽略自定义文件
+gitignoreTest
